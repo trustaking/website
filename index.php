@@ -13,10 +13,11 @@
 			<li><a href="redstone.trustaking.com" class="button primary">Redstone Testnet</a></li>
 		</ul>
 	</div>
-	<a href="#one" class="more scrolly">Learn More</a>
+	<p><br />We have opened a crowdfund <a href="https://btcpay.trustaking.com/apps/3ZLoV6ywKzV1JTBdx6DXEBWHXSxe/crowdfund">here</a> to keep the service free of charge.<br />We are currently running testnet!</p>
+	<a href="#one" class="more scrolly"></a>
 </section>
 
-<<!-- Main -->
+<!-- Main -->
 <article id="main">
 <!-- One -->
 	<section id="one" class="wrapper style1 special">
