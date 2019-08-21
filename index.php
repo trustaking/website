@@ -11,6 +11,7 @@
 			<li><a href="http://x42.trustaking.com" class="button primary">x42 Mainnet</a></li>
 			<li><a href="http://stratis.trustaking.com" class="button primary">Stratis Testnet</a></li>
 			<li><a href="http://redstone.trustaking.com" class="button primary">Redstone Testnet</a></li>
+			<li><a href="http://solaris.trustaking.com" class="button primary">Solaris Testnet</a></li>
 		</ul>
 	</div>
 	<p><br />We have opened a crowdfund <a href="https://btcpay.trustaking.com/apps/3ZLoV6ywKzV1JTBdx6DXEBWHXSxe/crowdfund">here</a> to keep the service free of charge.<br />We are currently running testnet!</p>
