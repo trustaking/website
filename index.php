@@ -15,7 +15,7 @@
 			<li><a href="http://obsidian.trustaking.com" class="button primary">Obsidian Testnet</a></li>
 		</ul>
 	</div>
-	<p><br />We have opened a crowdfund <a href="https://donations.trustaking.com/">here</a> to keep the service free of charge.<br />We are currently running testnet!</p>
+	<p><br />We have opened a <a href="https://donations.trustaking.com/">crowdfund</a> to keep the service free of charge.<br /></p>
 	<a href="#one" class="more scrolly"></a>
 </section>
 
