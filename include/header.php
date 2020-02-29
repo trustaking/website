@@ -1,3 +1,15 @@
+<?php
+//$bannerAd[1] = '<a href="https://trustaking.com/" target="_blank"><img src="images/banner-1.jpg" width="468" height="60" border="0"></a>';
+//$bannerAd[2] = 'code for ad 2';
+//$bannerAd[3] = 'code for ad 3';
+//$bannerAd[4] = 'code for ad 4';
+//$bannerAd[5] = 'code for ad 5';
+$adCount=0;
+if (isset($bannerAd)) {
+$adCount = count($bannerAd);
+$randomAdNumber = mt_rand(1, $adCount);
+}
+?>
 <!DOCTYPE HTML>
 <html>
 	<head>

@@ -1,22 +1,20 @@
 <?php include('include/header.php'); ?>
 <?php include('include/menu.php'); ?>
-
 <!-- Banner -->
 <section id="banner">
 	<div class="inner">
+		<?php if ($adCount>0) { echo $bannerAd[$randomAdNumber]; } ?> <br />
 		<h2><img src="images/logo_transparent.png" alt="" width="100"/> <br/>TRUSTAKING.COM</h2>
 		<p>The trusted home of <br />
 		cold staking<br />
 		<ul class="actions special">
-			<li><a href="http://solaris.trustaking.com" class="button primary">Solaris Mainnet</a></li>
-			<li><a href="http://x42.trustaking.com" class="button primary">x42 Mainnet</a></li>
-			<li><a href="http://city.trustaking.com" class="button primary">City Mainnet</a></li>
-			<li><a href="http://redstone.trustaking.com" class="button primary">Redstone Testnet</a></li>
-			<li><a href="http://obsidian.trustaking.com" class="button primary">Obsidian Testnet</a></li>
+			<li><a href="http://solaris.trustaking.com" class="image-link"><img src="images/coin_logo-solaris.png" alt="Solaris" width="50" height="50"></a></li>
+			<li><a href="http://x42.trustaking.com"><img src="images/coin_logo-x42.png" alt="X42" width="100" height="50"></a></li>
+			<li><a href="http://city.trustaking.com"><img src="images/coin_logo-city.png" alt="City" width="50" height="50"></a></li>
+			<li><a href="http://xds.trustaking.com"><img src="images/coin_logo-xds.png" alt="XDS" width="50" height="50"></a></li>
 		</ul>
 	</div>
-	<p><br />Send us a <a href="https://donations.trustaking.com/">tip</a> to keep the service free of charge<br /></p>
-	<a href="#one" class="more scrolly"></a>
+	<p><br /><a href="https://donations.trustaking.com/">If you appreciate our services, send us a tip.</a><br /></p>
 </section>
 
 <!-- Main -->
