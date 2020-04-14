@@ -3,7 +3,7 @@
 <!-- Banner -->
 <section id="banner">
 	<div class="inner">
-		<?php if ($adCount>0) { echo $bannerAd[$randomAdNumber]; } ?> <br />
+		<?php if ($adCount>0) { echo $bannerAd[$randomAdNumber]; } ?> <br><br>
 		<h2><img src="images/logo_transparent.png" alt="" width="100"/> <br/>TRUSTAKING.COM</h2>
 		<p>The trusted home of <br />
 		cold staking<br />
@@ -12,6 +12,7 @@
 			<li><a href="http://x42.trustaking.com"><img src="images/coin_logo-x42.png" alt="X42" width="100" height="50"></a></li>
 			<li><a href="http://city.trustaking.com"><img src="images/coin_logo-city.png" alt="City" width="50" height="50"></a></li>
 			<li><a href="http://xds.trustaking.com"><img src="images/coin_logo-xds.png" alt="XDS" width="50" height="50"></a></li>
+			<li><a href="http://ams.trustaking.com"><img src="images/coin_logo-amsterdamcoin.png" alt="AMS" width="50" height="50"></a></li>
 		</ul>
 	</div>
 	<p><br /><a href="https://donations.trustaking.com/">If you appreciate our services, send us a tip.</a><br /></p>
@@ -25,7 +26,8 @@
 			<header class="major">
 				<h2>Full Node as a Service</h2>
 				<p><b>Effortless cold staking with no technical knowledge required</b></p>
-				<p>This service is being provided <b>free of charge</b> as we have decided to trial a donation/tips based business model. We will rely on these tips and donations as long as possible, giving everyone the opportunity to use cold staking. Hopefully, people will appreciate the service and donate on a regular basis so that we can keep the service running. We have opened a crowdfunding page <a href="https://donations.trustaking.com">here</a> if you want to help.<p> 
+				<p>To see how easy it is to get started, please see our how-to guides by visiting this <b><u><a href="how-to.php#trustaking">page</a></b></u>
+				<p>This service is being provided in parts <b>free of charge</b> as we are trialling a donation/tips based business model. We will rely on these tips and donations as long as possible, giving everyone the opportunity to use cold staking. If you appreciate our service, please donate on a regular basis so that we can keep the service running. Please visit <b><u><a href="https://donations.trustaking.com/">donations.trustaking.com</a></b></u> if you want to help.<p> 
 			</header>
 			<ul class="icons major">
 				<li><span class="icon fa-diamond major style1"><span class="label">Lorem</span></span></li>
