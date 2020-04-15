@@ -4,9 +4,9 @@
 <section id="banner">
 	<div class="inner">
 		<?php if ($adCount>0) { echo $bannerAd[$randomAdNumber]; } ?> <br><br>
-		<h2><img src="images/logo_transparent.png" alt="" width="100"/> <br/>TRUSTAKING.COM</h2>
-		<p>The trusted home of <br />
-		cold staking<br />
+		<br><h3><img src="images/logo_transparent.png" alt="" width="150" /></h3>
+		<h2>TRUSTAKING.COM </h3>
+		<p>The trusted home <br> of cold staking</p>
 		<ul class="actions special">
 			<li><a href="http://solaris.trustaking.com" class="image-link"><img src="images/coin_logo-solaris.png" alt="Solaris" width="50" height="50"></a></li>
 			<li><a href="http://x42.trustaking.com"><img src="images/coin_logo-x42.png" alt="X42" width="100" height="50"></a></li>
