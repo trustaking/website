@@ -3,7 +3,7 @@
 <!-- Banner -->
 <section id="banner">
 	<div class="inner">
-		<?php if ($adCount>0) { echo $bannerAd[$randomAdNumber]; } ?> <br><br>
+		<br><?php if ($adCount>0) { echo $bannerAd[$randomAdNumber]; } ?>
 		<br><h3><img src="images/logo_transparent.png" alt="" width="150" /></h3>
 		<h2>TRUSTAKING.COM </h3>
 		<p>The trusted home <br> of cold staking</p>
