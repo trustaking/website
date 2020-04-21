@@ -23,7 +23,7 @@ if (isset($bannerAd)) {
 	<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
 	<meta property="og:title" content="Trustaking.com">
 	<meta property="og:description" content="The trusted home of cold staking.">
-	<meta property="og:image" content="images/thumbnail.png">
+	<meta property="og:image" content="https://trustaking.com/images/thumbnail.png">
 	<meta property="og:image:width" content="1200">
 	<meta property="og:image:height" content="630">
 	<!--<meta property="og:url" content="">-->
