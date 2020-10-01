@@ -13,6 +13,7 @@
 			<li><a href="http://city.trustaking.com"><img src="images/coin_logo-city.png" alt="City" width="50" height="50"></a></li>
 			<li><a href="http://xds.trustaking.com"><img src="images/coin_logo-xds.png" alt="XDS" width="50" height="50"></a></li>
 			<li><a href="http://ams.trustaking.com"><img src="images/coin_logo-amsterdamcoin.png" alt="AMS" width="50" height="50"></a></li>
+			<li><a href="http://strax.trustaking.com"><img src="images/coin_logo-strax.png" alt="STRAX" width="50" height="50"></a></li>
 <!--
 			<li><a href="http://impleum.trustaking.com"><img src="images/coin_logo-impleum.png" alt="IMPL" width="50" height="50"></a></li>
 -->
